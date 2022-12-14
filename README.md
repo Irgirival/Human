@@ -2,8 +2,8 @@
 
 https://github.com/Irgirival/Human/issues/1#issue-1495694164
 
-sudo apt update
-sudo apt upgrade --yes
+*sudo apt update
+sudo apt upgrade --yes*
 
 humansd version
 v1.0.0
