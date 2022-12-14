@@ -9,6 +9,8 @@ v1.0.0
 
 # Cosmovisor
 
+Please follow the cosmovisor setup instructions if you haven't already.
+
 # Init the Chain
 
 1. Init the chain
