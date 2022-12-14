@@ -1,5 +1,7 @@
 # Human
 
+https://github.com/Irgirival/Human/issues/1#issue-1495694164
+
 sudo apt update
 sudo apt upgrade --yes
 
